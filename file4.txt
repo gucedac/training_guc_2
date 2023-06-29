@@ -1,1 +1,1 @@
-file4.txt added
+New content of file4
