@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file4.txt added
 New line in file4.txt from master
+=======
+New content of file4
+>>>>>>> dev_guc
