@@ -1,1 +1,2 @@
 file4.txt added
+New line in file4.txt from master
